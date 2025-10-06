@@ -16,7 +16,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: Pursued `Bachelors` at [B V Raju Institute of Techonology](https://cst.buaa.edu.cn/) in Computer Science Engineering specialized in Artificial Intelligence and Machine Learning
+- :school: Pursued `Bachelors` at [B V Raju Institute of Techonology](http://bvrit.ac.in/) in Computer Science Engineering specialized in Artificial Intelligence and Machine Learning
 - :technologist: **Currently working as** `Software Developer`
 - :boom: You can visit [MY WEBSITE](https://akashri.netlify.app/) to know about me.
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Akash&amp;color=EA4335&amp;style=flat-square)](mailto:akashpk1331@gmail.com)
