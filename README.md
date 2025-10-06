@@ -227,7 +227,7 @@
 ![2TB GAMMIX S70 Blade](https://img.shields.io/badge/ADATA%20GAMMIX%20S70%20BLADE%202TB-red?style=for-the-badge)
 ![Mobiuz 240Hz](https://img.shields.io/badge/BENQ%20EX270M%2027''%20240Hz%20-purple?style=for-the-badge)
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjdjOW5nYmZna2o4czhsM3dieTU0dWljMWd1ODFyaWJ0MnphZWQ1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZzNeCCDmQW7y9fKNZS/giphy.gif" width = 20px>  </picture> Streaming
+### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJ2YWJ6c2xneWVxa2QzYW96NHZlMXQ3eWV4MXJ5eml5cXBxbGljdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fWba7xSMR1GC4r4Qpj/giphy.gif" width = 20px>  </picture> Streaming
 ![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
