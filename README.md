@@ -18,7 +18,7 @@
 
 - :school: Pursued `Bachelors` in Computer Science Engineering specialized in Artificial Intelligence and Machine Learning
 - :technologist: **Currently working as** `Software Developer`
-- :boom: You can visit know about me [here](https://irsakash.netlify.app/).
+- :boom: You can visit to know more about me [here](https://irsakash.netlify.app/).
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Akash&amp;color=EA4335&amp;style=flat-square)](mailto:akashpk1331@gmail.com)
 - :sunglasses: `"Keep grinding and do what you love"`
 
